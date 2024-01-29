@@ -1,0 +1,5 @@
+# Employee ID Name Age Salary (PM)
+employees = [["161E90", "Ramu", 35, 59000],
+             ["171E22", "Tejas", 30, 82100],
+             ["171G55", "Abhi", 25, 100000],
+             ["152K46", "Jaya", 32, 85000]]
